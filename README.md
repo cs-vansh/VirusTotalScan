@@ -25,7 +25,7 @@ This Python script utilizes the VirusTotal API to perform scans on a list of IP 
 
 1. Update the `API_Key` and the `ips_to_scan` list with the IP addresses to investigate.
    ```python
-   ips_to_scan = ['8.8.8.8', '142.250.195.14'] 	# IPs to scan 
+   ips_to_scan = ['zzz.zzz.zzz.zzz','yyy.yyy.yyy.yyy'] 	# IPs to scan 
    ```
 
 3. Run the script:
